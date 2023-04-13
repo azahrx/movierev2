@@ -1,6 +1,6 @@
 # movierev
 
-Implementation of dynamic application for movie search list using React.js, HTML, and CSS. Below listed automated message from Create React App.
+Implementation of dynamic application for movie search list using React.js, HTML, and CSS. Below listed automated message from React.
 
 # Getting Started with Create React App
 
